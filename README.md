@@ -52,4 +52,37 @@
 **Internship:** Week 2 – Functions, Arrays & Loops  
 **Date:** August 2025
 
+# Week 3 – Object-Oriented Programming (OOP)
+
+**Goal:** Learn the foundations of OOP in Java and apply them to build real-world programs.
+
+---
+
+## 📅 Week 3 Learning Objectives
+1. Understand key OOP concepts:
+   - **Classes & Objects**
+   - **Constructors**
+   - **Encapsulation (getters & setters)**
+2. Implement a practical **Bank Account system** using OOP principles.
+
+---
+
+## 📂 Programs in This Week
+- `basic class & object.java` – Basic example of class and object.
+- `class with constructor.java` – Demonstrates constructors.
+- `Encapsulation.java` – Demonstrates encapsulation with getters and setters.
+- `BankAccount.java` – **Main Task**: Bank account system with deposit, withdraw, and balance check.
+
+---
+
+## 🛠 Bank Account System (Main Task)
+- Uses **class**, **constructor**, and **methods**.
+- Demonstrates **encapsulation** by using private fields and getters/setters.
+- Provides menu-driven options:
+  - Deposit money
+  - Withdraw money (with balance check)
+  - Display balance
+
+
+
 
