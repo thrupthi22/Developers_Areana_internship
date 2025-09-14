@@ -82,6 +82,20 @@
   - Deposit money
   - Withdraw money (with balance check)
   - Display balance
+ 
+- # Week 5 – Exception Handling & File I/O
+
+**Goal:** Learn to handle errors and work with files in Java.
+
+---
+
+## 📅 Week 5 Learning Objectives
+1. Understand **try-catch-finally** blocks and how to handle runtime errors.  
+2. Create and use **custom exceptions**.  
+3. Learn how to **read/write text files** using `FileReader`, `BufferedReader`, and `FileWriter`.  
+4. Extend a previous project (e.g., Bank Account System) to **save/load data from files**.
+
+---
 
 
 
