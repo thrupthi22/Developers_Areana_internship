@@ -98,5 +98,27 @@
 ---
 
 
+# Week 6 – Java Collections Framework
+
+**Goal:** Work with dynamic data structures in Java.
+
+---
+
+## 📅 Week 6 Learning Objectives
+1. Learn about key collections:
+   - **ArrayList** – dynamic lists
+   - **HashMap** – key-value storage
+   - **HashSet** – unique elements
+2. Practice different ways of iterating:
+   - Loops (`for`, `while`)
+   - Enhanced for-each
+   - `forEach` method with lambda
+3. Build a **Student Management System** using `ArrayList` and `HashMap`.
+
+---
+
+
+
+
 
 
