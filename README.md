@@ -117,6 +117,32 @@
 
 ---
 
+# Week 7 – Introduction to Java GUI with Swing
+
+**Goal:** Create simple graphical applications using Swing.
+
+---
+
+## 📅 Week 7 Learning Objectives
+1. Learn how to create **frames, labels, buttons, and text fields** using Swing.  
+2. Understand how to handle **events** (e.g., button clicks).  
+3. Build a **GUI Login Form or Calculator** as a task.
+
+---
+
+## 📂 Programs in This Week
+- `SimpleFrame.java` – Basic Swing window with a label.  
+- `SimpleForm.java` – Demonstrates text fields, buttons, and labels with event handling.  
+- `GUICalculator.java` – **Main Task**: A fully functional calculator GUI.
+
+---
+
+## 🛠 GUI Calculator (Main Task)
+- Uses `JFrame`, `JTextField`, and `JButton` components.  
+- Supports basic operations: `+`, `-`, `*`, `/`.  
+- Handles division by zero (displays "Error").  
+- User-friendly layout with clickable buttons. 
+
 
 
 
